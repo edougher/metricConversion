@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">metric Conversion</string>
+    <string name="inches">Inches</string>
+    <string name="feet">Feet</string>
+    <string name="pounds">Pounds</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="meters">Meters</string>
+    <string name="cm">Centimeters</string>
+    <string name="celcius">Celsius</string>
+    <string name="kilos">Kilograms</string>
+    <string name="convertBtn">Convert</string>
+</resources>
