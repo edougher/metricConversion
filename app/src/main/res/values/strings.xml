@@ -9,4 +9,5 @@
     <string name="celcius">Celsius</string>
     <string name="kilos">Kilograms</string>
     <string name="convertBtn">Convert</string>
+    <string name="initialValue">0.0</string>
 </resources>
